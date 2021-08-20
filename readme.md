@@ -1,7 +1,7 @@
 # 重庆工程学院主页
 
 ## 开发语言
-HTML CSS JavaScript
+HTML、CSS、JavaScript
 
 ## 页面展示
 ![](readme_files/1.jpg)
